@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shubhammjha22@gmail.com**
 
-- 💬 Ask me about **Reactjs, javascript**
+- 💬 Ask me about **AWS , Serverless Architecture**
 
  
 
