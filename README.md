@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
-- 👨‍💻 My projects are available at [https://github.com/shubhammjha22](https://github.com/shubhammjha22)
+- 👨‍💻 My projects are available at [Portfolio](https://shubhamm22-portfolio.vercel.app/)
 
 - 📫 How to reach me **shubhammjha22@gmail.com**
 
